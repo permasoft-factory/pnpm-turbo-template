@@ -1,0 +1,12 @@
+# Compiled code
+dist
+
+# NodeJs modules
+node_modules
+
+# Turbo cache
+.turbo
+
+# Typedoc
+.nojekyll
+**/*/docs/README.md
